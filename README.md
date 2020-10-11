@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Haku
 
 - 🌱 I’m currently learning Go and VueJS. 
-- 🔭 I’m love working with Vim, Debian/Alpine and PostgresQL/MongoDB/Sqlite 
+- 🔭 I work with Vim, Debian/Alpine and PostgresQL/MongoDB/Sqlite 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakuamesan&hide=html)
