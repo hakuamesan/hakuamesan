@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Haku
 
-- 🌱 I’m currently learning Go and VueJS. 
+- 🌱 Favorite languages are Go and Javascript/VueJS. 
 - 🔭 I work with Vim, Debian/Alpine and PostgresQL/MongoDB/Sqlite 
 
 
