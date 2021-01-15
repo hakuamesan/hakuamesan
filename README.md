@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Haku
 
-- 🌱 Favorite languages are Go and Javascript/VueJS. 
+- 🌱 Favorite languages are Go, Swift and Javascript/VueJS. 
 - 🔭 I work with Vim, Debian/Alpine and PostgresQL/MongoDB/Sqlite 
 
 
