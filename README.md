@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Haku
 
 - 🌱 Favorite languages are Go, Swift and Javascript/VueJS. 
-- 🔭 I work with Vim, Debian/Alpine and PostgresQL/MongoDB/Sqlite 
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakuamesan&hide=html)
 ![hakuamesan's github stats](https://github-readme-stats.vercel.app/api?username=hakuamesan&show_icons=true&count_private=true)
