@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Haku
+### Hi there 👋, 
 
 - 🌱 Favorite languages are Go, Swift and VueJS. 
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakuamesan&hide=html)
 ![hakuamesan's github stats](https://github-readme-stats.vercel.app/api?username=hakuamesan&show_icons=true&count_private=true)
-
 
 <!--
 **hakuamesan/hakuamesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
