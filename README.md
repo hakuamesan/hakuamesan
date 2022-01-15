@@ -1,6 +1,7 @@
 ### Hi there 👋, 
 
-- Favorite languages are Go, Swift, JS / VueJS. 
+- Developer - coding for fun
+- Favorite languages are Go, Swift, JS / VueJS
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakuamesan&hide=html)
