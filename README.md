@@ -7,4 +7,4 @@
 - My favorite languages are Go, Swift, VueJS
 
 ## What I would like
-- Discuss with you about your favorite projects
+- Discuss with you about your favorite projects to see how we can make it better
