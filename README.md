@@ -4,4 +4,4 @@
 - Developer 
 
 ## What I like
-- My favorite languages are Go, Swift, C, C++, Rust, Python
+- My favorite languages are Swift, C, C++, Go, Python
