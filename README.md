@@ -1,7 +1,7 @@
 ### Hi there 👋 
-
-## About Me
-- Developer 
+Welcome and nice to meet you!
 
 ## What I like
-- My favorite languages are Swift, C, C++, Go, Python
+- My favorite languages are Swift, C/C++, Go, Python
+
+  
